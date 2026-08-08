@@ -1,4 +1,3 @@
-# qb-vscode-legal
 # QB VS Code Extension — Legal Pages
 
 Hosts the End User License Agreement and Privacy Policy for the VS Code
